@@ -39,6 +39,7 @@ body {
     padding: 10px 20px;
     font-weight: 800;
     font-size: 1.5rem;
+    min-width: fit-content;
 }
 
 i.fa {
